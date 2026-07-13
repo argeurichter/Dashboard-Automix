@@ -2,6 +2,12 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "automix",
   "compatibility_date": "2026-07-13",
+  "routes": [
+    {
+      "pattern": "automix.v4ames.com",
+      "custom_domain": true
+    }
+  ],
   "assets": {
     "directory": "public"
   }
