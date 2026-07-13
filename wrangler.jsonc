@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "automix",
+  "name": "shrill-paper-b131",
   "compatibility_date": "2026-07-13",
   "assets": {
     "directory": "public"
